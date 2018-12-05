@@ -1,0 +1,2220 @@
+Alderaan Bespin 8
+Alderaan Corellia 6
+Alderaan Coruscant 16
+Alderaan Dagobah 30
+Alderaan Dantooine 13
+Alderaan Endor 18
+Alderaan Gamorr 180
+Alderaan Hoth 27
+Alderaan Sullust 213
+Alderaan Tatooine 7
+Alderaan Yavin 5
+Bespin Corellia 6
+Bespin Coruscant 158
+Bespin Dagobah 27
+Bespin Dantooine 22
+Bespin Endor 32
+Bespin Gamorr 75
+Bespin Hoth 4
+Bespin Sullust 268
+Bespin Tatooine 16
+Bespin Yavin 11
+Corellia Coruscant 4
+Corellia Dagobah 31
+Corellia Dantooine 12
+Corellia Endor 17
+Corellia Gamorr 254
+Corellia Hoth 21
+Corellia Sullust 19
+Corellia Tatooine 4
+Corellia Yavin 15
+Coruscant Dagobah 302
+Coruscant Dantooine 19
+Coruscant Endor 156
+Coruscant Gamorr 387
+Coruscant Hoth 81
+Coruscant Sullust 194
+Coruscant Tatooine 542
+Coruscant Yavin 128
+Dagobah Dantooine 32
+Dagobah Endor 97
+Dagobah Gamorr 656
+Dagobah Hoth 89
+Dagobah Sullust 78
+Dagobah Tatooine 28
+Dagobah Yavin 314
+Dantooine Endor 21
+Dantooine Gamorr 86
+Dantooine Hoth 28
+Dantooine Sullust 126
+Dantooine Tatooine 20
+Dantooine Yavin 12
+Endor Gamorr 341
+Endor Hoth 60
+Endor Sullust 19
+Endor Tatooine 24
+Endor Yavin 10
+Gamorr Hoth 346
+Gamorr Sullust 74
+Gamorr Tatooine 40
+Gamorr Yavin 55
+Hoth Sullust 22
+Hoth Tatooine 56
+Hoth Yavin 39
+Sullust Tatooine 38
+Sullust Yavin 17
+Tatooine Yavin 15
+Brentaal Chandrila 1
+Brentaal Corellia 3
+Brentaal Corulag 2
+Brentaal Coruscant 7
+Brentaal Esseles 2
+Brentaal Rhinnal 5
+Brentaal Ralltiir 7
+Chandrila Corellia 2
+Chandrila Corulag 1
+Chandrila Coruscant 5
+Chandrila Esseles 3
+Chandrila Rhinnal 2
+Chandrila Ralltiir 4
+Corellia Corulag 1
+Corellia Coruscant 4
+Corellia Esseles 4
+Corellia Rhinnal 7
+Corellia Ralltiir 9
+Corulag Coruscant 6
+Corulag Esseles 4
+Corulag Rhinnal 8
+Corulag Ralltiir 11
+Coruscant Esseles 8
+Coruscant Rhinnal 10
+Coruscant Ralltiir 12
+Esseles Rhinnal 2
+Esseles Ralltiir 4
+Rhinnal Ralltiir 1
+Corellia Coruscant 4
+Corellia Kashyyyk 36
+Corellia Myrkr 81
+Corellia Wayland 99
+Corellia Yaga Minor 12
+Coruscant Kashyyyk 43
+Coruscant Myrkr 108
+Coruscant Wayland 58
+Coruscant Yaga Minor 15
+Kashyyyk Myrkr 55
+Kashyyyk Wayland 54
+Kashyyyk Yaga Minor 53
+Myrkr Wayland 21
+Myrkr Yaga Minor 55
+Wayland Yaga Minor 30
+Bakura Corellia 52
+Bakura Corporate Sector 60
+Bakura Coruscant 77
+Bakura Hapes Cluster 11
+Bakura Kessel 27
+Bakura Mon Calamari 22
+Corellia Corporate Sector 9
+Corellia Coruscant 4
+Corellia Hapes Cluster 21
+Corellia Kessel 10
+Corellia Mon Calamari 6
+Corporate Sector Coruscant 15
+Corporate Sector Hapes Cluster 7
+Corporate Sector Kessel 9
+Corporate Sector Mon Calamari 24
+Coruscant Hapes Cluster 39
+Coruscant Kessel 27
+Coruscant Mon Calamari 13
+Hapes Cluster Kessel 12
+Hapes Cluster Mon Calamari 18
+Kessel Mon Calamari 9
+Verifying if conduits.txt is read properly or not
+
+Alderaan	 Bespin	 8
+Alderaan	 Corellia	 6
+Alderaan	 Coruscant	 16
+Alderaan	 Dagobah	 30
+Alderaan	 Dantooine	 13
+Alderaan	 Endor	 18
+Alderaan	 Gamorr	 180
+Alderaan	 Hoth	 27
+Alderaan	 Sullust	 213
+Alderaan	 Tatooine	 7
+Alderaan	 Yavin	 5
+Bespin	 Corellia	 6
+Bespin	 Coruscant	 158
+Bespin	 Dagobah	 27
+Bespin	 Dantooine	 22
+Bespin	 Endor	 32
+Bespin	 Gamorr	 75
+Bespin	 Hoth	 4
+Bespin	 Sullust	 268
+Bespin	 Tatooine	 16
+Bespin	 Yavin	 11
+Corellia	 Coruscant	 4
+Corellia	 Dagobah	 31
+Corellia	 Dantooine	 12
+Corellia	 Endor	 17
+Corellia	 Gamorr	 254
+Corellia	 Hoth	 21
+Corellia	 Sullust	 19
+Corellia	 Tatooine	 4
+Corellia	 Yavin	 15
+Coruscant	 Dagobah	 302
+Coruscant	 Dantooine	 19
+Coruscant	 Endor	 156
+Coruscant	 Gamorr	 387
+Coruscant	 Hoth	 81
+Coruscant	 Sullust	 194
+Coruscant	 Tatooine	 542
+Coruscant	 Yavin	 128
+Dagobah	 Dantooine	 32
+Dagobah	 Endor	 97
+Dagobah	 Gamorr	 656
+Dagobah	 Hoth	 89
+Dagobah	 Sullust	 78
+Dagobah	 Tatooine	 28
+Dagobah	 Yavin	 314
+Dantooine	 Endor	 21
+Dantooine	 Gamorr	 86
+Dantooine	 Hoth	 28
+Dantooine	 Sullust	 126
+Dantooine	 Tatooine	 20
+Dantooine	 Yavin	 12
+Endor	 Gamorr	 341
+Endor	 Hoth	 60
+Endor	 Sullust	 19
+Endor	 Tatooine	 24
+Endor	 Yavin	 10
+Gamorr	 Hoth	 346
+Gamorr	 Sullust	 74
+Gamorr	 Tatooine	 40
+Gamorr	 Yavin	 55
+Hoth	 Sullust	 22
+Hoth	 Tatooine	 56
+Hoth	 Yavin	 39
+Sullust	 Tatooine	 38
+Sullust	 Yavin	 17
+Tatooine	 Yavin	 15
+Brentaal	 Chandrila	 1
+Brentaal	 Corellia	 3
+Brentaal	 Corulag	 2
+Brentaal	 Coruscant	 7
+Brentaal	 Esseles	 2
+Brentaal	 Rhinnal	 5
+Brentaal	 Ralltiir	 7
+Chandrila	 Corellia	 2
+Chandrila	 Corulag	 1
+Chandrila	 Coruscant	 5
+Chandrila	 Esseles	 3
+Chandrila	 Rhinnal	 2
+Chandrila	 Ralltiir	 4
+Corellia	 Corulag	 1
+Corellia	 Coruscant	 4
+Corellia	 Esseles	 4
+Corellia	 Rhinnal	 7
+Corellia	 Ralltiir	 9
+Corulag	 Coruscant	 6
+Corulag	 Esseles	 4
+Corulag	 Rhinnal	 8
+Corulag	 Ralltiir	 11
+Coruscant	 Esseles	 8
+Coruscant	 Rhinnal	 10
+Coruscant	 Ralltiir	 12
+Esseles	 Rhinnal	 2
+Esseles	 Ralltiir	 4
+Rhinnal	 Ralltiir	 1
+Corellia	 Coruscant	 4
+Corellia	 Kashyyyk	 36
+Corellia	 Myrkr	 81
+Corellia	 Wayland	 99
+Corellia	 Yaga Minor	 12
+Coruscant	 Kashyyyk	 43
+Coruscant	 Myrkr	 108
+Coruscant	 Wayland	 58
+Coruscant	 Yaga Minor	 15
+Kashyyyk	 Myrkr	 55
+Kashyyyk	 Wayland	 54
+Kashyyyk	 Yaga Minor	 53
+Myrkr	 Wayland	 21
+Myrkr	 Yaga Minor	 55
+Wayland	 Yaga Minor	 30
+Bakura	 Corellia	 52
+Bakura	 Corporate Sector	 60
+Bakura	 Coruscant	 77
+Bakura	 Hapes Cluster	 11
+Bakura	 Kessel	 27
+Bakura	 Mon Calamari	 22
+Corellia	 Corporate Sector	 9
+Corellia	 Coruscant	 4
+Corellia	 Hapes Cluster	 21
+Corellia	 Kessel	 10
+Corellia	 Mon Calamari	 6
+Corporate Sector	 Coruscant	 15
+Corporate Sector	 Hapes Cluster	 7
+Corporate Sector	 Kessel	 9
+Corporate Sector	 Mon Calamari	 24
+Coruscant	 Hapes Cluster	 39
+Coruscant	 Kessel	 27
+Coruscant	 Mon Calamari	 13
+Hapes Cluster	 Kessel	 12
+Hapes Cluster	 Mon Calamari	 18
+Kessel	 Mon Calamari	 9
+
+there is no such planet now, so let's add it   Alderaan
+there is no such planet now, so let's add it   Bespin
+there is no such planet now, so let's add it   Corellia
+there is no such planet now, so let's add it   Coruscant
+there is no such planet now, so let's add it   Dagobah
+there is no such planet now, so let's add it   Dantooine
+there is no such planet now, so let's add it   Endor
+there is no such planet now, so let's add it   Gamorr
+there is no such planet now, so let's add it   Hoth
+there is no such planet now, so let's add it   Sullust
+there is no such planet now, so let's add it   Tatooine
+there is no such planet now, so let's add it   Yavin
+there is no such planet now, so let's add it   Brentaal
+there is no such planet now, so let's add it   Chandrila
+there is no such planet now, so let's add it   Corulag
+there is no such planet now, so let's add it   Esseles
+there is no such planet now, so let's add it   Rhinnal
+there is no such planet now, so let's add it   Ralltiir
+there is no such planet now, so let's add it   Kashyyyk
+there is no such planet now, so let's add it   Myrkr
+there is no such planet now, so let's add it   Wayland
+there is no such planet now, so let's add it   Yaga Minor
+there is no such planet now, so let's add it   Bakura
+there is no such planet now, so let's add it   Corporate Sector
+there is no such planet now, so let's add it   Hapes Cluster
+there is no such planet now, so let's add it   Kessel
+there is no such planet now, so let's add it   Mon Calamari
+Total number of planets: 27
+galaxy has been built successfully
+
+Reading Route Structure 
+Andromeda Ascendant	Yaga Minor	0	Wayland	30
+Andromeda Ascendant	Wayland	34	Myrkr	55
+Andromeda Ascendant	Myrkr	59	Wayland	80
+Andromeda Ascendant	Wayland	84	Yaga Minor	114
+Andromeda Ascendant	Yaga Minor	118	Wayland	148
+Andromeda Ascendant	Wayland	152	Myrkr	173
+Andromeda Ascendant	Myrkr	177	Wayland	198
+Andromeda Ascendant	Wayland	202	Yaga Minor	232
+Andromeda Ascendant	Yaga Minor	236	Wayland	266
+Andromeda Ascendant	Wayland	270	Myrkr	291
+Andromeda Ascendant	Myrkr	295	Wayland	316
+Andromeda Ascendant	Wayland	320	Yaga Minor	350
+Andromeda Ascendant	Yaga Minor	354	Wayland	384
+Andromeda Ascendant	Wayland	388	Myrkr	409
+Andromeda Ascendant	Myrkr	413	Wayland	434
+Andromeda Ascendant	Wayland	438	Yaga Minor	468
+Andromeda Ascendant	Yaga Minor	472	Wayland	502
+Andromeda Ascendant	Wayland	506	Myrkr	527
+Andromeda Ascendant	Myrkr	531	Wayland	552
+Andromeda Ascendant	Wayland	556	Yaga Minor	586
+USSC Discovery One	Yaga Minor	0	Kashyyyk	53
+USSC Discovery One	Kashyyyk	57	Yaga Minor	110
+USSC Discovery One	Yaga Minor	114	Kashyyyk	167
+USSC Discovery One	Kashyyyk	171	Yaga Minor	224
+USSC Discovery One	Yaga Minor	228	Kashyyyk	281
+USSC Discovery One	Kashyyyk	285	Yaga Minor	338
+USSC Discovery One	Yaga Minor	342	Kashyyyk	395
+USSC Discovery One	Kashyyyk	399	Yaga Minor	452
+USSC Discovery One	Yaga Minor	456	Kashyyyk	509
+USSC Discovery One	Kashyyyk	513	Yaga Minor	566
+Galactica	Mon Calamari	0	Corporate Sector	24
+Galactica	Corporate Sector	28	Hapes Cluster	35
+Galactica	Hapes Cluster	39	Kessel	51
+Galactica	Kessel	55	Hapes Cluster	67
+Galactica	Hapes Cluster	71	Corporate Sector	78
+Galactica	Corporate Sector	82	Mon Calamari	106
+Galactica	Mon Calamari	110	Corporate Sector	134
+Galactica	Corporate Sector	138	Hapes Cluster	145
+Galactica	Hapes Cluster	149	Kessel	161
+Galactica	Kessel	165	Hapes Cluster	177
+Galactica	Hapes Cluster	181	Corporate Sector	188
+Galactica	Corporate Sector	192	Mon Calamari	216
+Galactica	Mon Calamari	220	Corporate Sector	244
+Galactica	Corporate Sector	248	Hapes Cluster	255
+Galactica	Hapes Cluster	259	Kessel	271
+Galactica	Kessel	275	Hapes Cluster	287
+Galactica	Hapes Cluster	291	Corporate Sector	298
+Galactica	Corporate Sector	302	Mon Calamari	326
+Galactica	Mon Calamari	330	Corporate Sector	354
+Galactica	Corporate Sector	358	Hapes Cluster	365
+Galactica	Hapes Cluster	369	Kessel	381
+Galactica	Kessel	385	Hapes Cluster	397
+Galactica	Hapes Cluster	401	Corporate Sector	408
+Galactica	Corporate Sector	412	Mon Calamari	436
+Galactica	Mon Calamari	440	Corporate Sector	464
+Galactica	Corporate Sector	468	Hapes Cluster	475
+Galactica	Hapes Cluster	479	Kessel	491
+Galactica	Kessel	495	Hapes Cluster	507
+Galactica	Hapes Cluster	511	Corporate Sector	518
+Galactica	Corporate Sector	522	Mon Calamari	546
+Galactica	Mon Calamari	550	Corporate Sector	574
+Galactica	Corporate Sector	578	Hapes Cluster	585
+Galactica	Hapes Cluster	589	Kessel	601
+Galactica	Kessel	605	Hapes Cluster	617
+Galactica	Hapes Cluster	621	Corporate Sector	628
+Galactica	Corporate Sector	632	Mon Calamari	656
+Galactica	Mon Calamari	660	Corporate Sector	684
+Galactica	Corporate Sector	688	Hapes Cluster	695
+Galactica	Hapes Cluster	699	Kessel	711
+Galactica	Kessel	715	Hapes Cluster	727
+Galactica	Hapes Cluster	731	Corporate Sector	738
+Galactica	Corporate Sector	742	Mon Calamari	766
+Galactica	Mon Calamari	770	Corporate Sector	794
+Galactica	Corporate Sector	798	Hapes Cluster	805
+Galactica	Hapes Cluster	809	Kessel	821
+Galactica	Kessel	825	Hapes Cluster	837
+Galactica	Hapes Cluster	841	Corporate Sector	848
+Galactica	Corporate Sector	852	Mon Calamari	876
+Galactica	Mon Calamari	880	Corporate Sector	904
+Galactica	Corporate Sector	908	Hapes Cluster	915
+Galactica	Hapes Cluster	919	Kessel	931
+Galactica	Kessel	935	Hapes Cluster	947
+Galactica	Hapes Cluster	951	Corporate Sector	958
+Galactica	Corporate Sector	962	Mon Calamari	986
+Galactica	Mon Calamari	990	Corporate Sector	1014
+Galactica	Corporate Sector	1018	Hapes Cluster	1025
+Galactica	Hapes Cluster	1029	Kessel	1041
+Galactica	Kessel	1045	Hapes Cluster	1057
+Galactica	Hapes Cluster	1061	Corporate Sector	1068
+Galactica	Corporate Sector	1072	Mon Calamari	1096
+Heart of Gold	Kessel	0	Bakura	27
+Heart of Gold	Bakura	31	Kessel	58
+Heart of Gold	Kessel	62	Bakura	89
+Heart of Gold	Bakura	93	Kessel	120
+Heart of Gold	Kessel	124	Bakura	151
+Heart of Gold	Bakura	155	Kessel	182
+Heart of Gold	Kessel	186	Bakura	213
+Heart of Gold	Bakura	217	Kessel	244
+Heart of Gold	Kessel	248	Bakura	275
+Heart of Gold	Bakura	279	Kessel	306
+Heart of Gold	Kessel	310	Bakura	337
+Heart of Gold	Bakura	341	Kessel	368
+Heart of Gold	Kessel	372	Bakura	399
+Heart of Gold	Bakura	403	Kessel	430
+Heart of Gold	Kessel	434	Bakura	461
+Heart of Gold	Bakura	465	Kessel	492
+Heart of Gold	Kessel	496	Bakura	523
+Heart of Gold	Bakura	527	Kessel	554
+Heart of Gold	Kessel	558	Bakura	585
+Heart of Gold	Bakura	589	Kessel	616
+Millenium Falcon	Dagobah	0	Dantooine	32
+Millenium Falcon	Dantooine	36	Alderaan	49
+Millenium Falcon	Alderaan	53	Yavin	58
+Millenium Falcon	Yavin	62	Alderaan	67
+Millenium Falcon	Alderaan	71	Dantooine	84
+Millenium Falcon	Dantooine	88	Dagobah	120
+Millenium Falcon	Dagobah	124	Dantooine	156
+Millenium Falcon	Dantooine	160	Alderaan	173
+Millenium Falcon	Alderaan	177	Yavin	182
+Millenium Falcon	Yavin	186	Alderaan	191
+Millenium Falcon	Alderaan	195	Dantooine	208
+Millenium Falcon	Dantooine	212	Dagobah	244
+Millenium Falcon	Dagobah	248	Dantooine	280
+Millenium Falcon	Dantooine	284	Alderaan	297
+Millenium Falcon	Alderaan	301	Yavin	306
+Millenium Falcon	Yavin	310	Alderaan	315
+Millenium Falcon	Alderaan	319	Dantooine	332
+Millenium Falcon	Dantooine	336	Dagobah	368
+Millenium Falcon	Dagobah	372	Dantooine	404
+Millenium Falcon	Dantooine	408	Alderaan	421
+Millenium Falcon	Alderaan	425	Yavin	430
+Millenium Falcon	Yavin	434	Alderaan	439
+Millenium Falcon	Alderaan	443	Dantooine	456
+Millenium Falcon	Dantooine	460	Dagobah	492
+Millenium Falcon	Dagobah	496	Dantooine	528
+Millenium Falcon	Dantooine	532	Alderaan	545
+Millenium Falcon	Alderaan	549	Yavin	554
+Millenium Falcon	Yavin	558	Alderaan	563
+Millenium Falcon	Alderaan	567	Dantooine	580
+Millenium Falcon	Dantooine	584	Dagobah	616
+Moya	Corulag	0	Brentaal	2
+Moya	Brentaal	6	Rhinnal	11
+Moya	Rhinnal	15	Ralltiir	16
+Moya	Ralltiir	20	Chandrila	24
+Moya	Chandrila	28	Esseles	31
+Moya	Esseles	35	Corulag	39
+Moya	Corulag	43	Brentaal	45
+Moya	Brentaal	49	Rhinnal	54
+Moya	Rhinnal	58	Ralltiir	59
+Moya	Ralltiir	63	Chandrila	67
+Moya	Chandrila	71	Esseles	74
+Moya	Esseles	78	Corulag	82
+Moya	Corulag	86	Brentaal	88
+Moya	Brentaal	92	Rhinnal	97
+Moya	Rhinnal	101	Ralltiir	102
+Moya	Ralltiir	106	Chandrila	110
+Moya	Chandrila	114	Esseles	117
+Moya	Esseles	121	Corulag	125
+Moya	Corulag	129	Brentaal	131
+Moya	Brentaal	135	Rhinnal	140
+Moya	Rhinnal	144	Ralltiir	145
+Moya	Ralltiir	149	Chandrila	153
+Moya	Chandrila	157	Esseles	160
+Moya	Esseles	164	Corulag	168
+Moya	Corulag	172	Brentaal	174
+Moya	Brentaal	178	Rhinnal	183
+Moya	Rhinnal	187	Ralltiir	188
+Moya	Ralltiir	192	Chandrila	196
+Moya	Chandrila	200	Esseles	203
+Moya	Esseles	207	Corulag	211
+Moya	Corulag	215	Brentaal	217
+Moya	Brentaal	221	Rhinnal	226
+Moya	Rhinnal	230	Ralltiir	231
+Moya	Ralltiir	235	Chandrila	239
+Moya	Chandrila	243	Esseles	246
+Moya	Esseles	250	Corulag	254
+Moya	Corulag	258	Brentaal	260
+Moya	Brentaal	264	Rhinnal	269
+Moya	Rhinnal	273	Ralltiir	274
+Moya	Ralltiir	278	Chandrila	282
+Moya	Chandrila	286	Esseles	289
+Moya	Esseles	293	Corulag	297
+Moya	Corulag	301	Brentaal	303
+Moya	Brentaal	307	Rhinnal	312
+Moya	Rhinnal	316	Ralltiir	317
+Moya	Ralltiir	321	Chandrila	325
+Moya	Chandrila	329	Esseles	332
+Moya	Esseles	336	Corulag	340
+Moya	Corulag	344	Brentaal	346
+Moya	Brentaal	350	Rhinnal	355
+Moya	Rhinnal	359	Ralltiir	360
+Moya	Ralltiir	364	Chandrila	368
+Moya	Chandrila	372	Esseles	375
+Moya	Esseles	379	Corulag	383
+Moya	Corulag	387	Brentaal	389
+Moya	Brentaal	393	Rhinnal	398
+Moya	Rhinnal	402	Ralltiir	403
+Moya	Ralltiir	407	Chandrila	411
+Moya	Chandrila	415	Esseles	418
+Moya	Esseles	422	Corulag	426
+NSEA Protector	Corellia	0	Coruscant	4
+NSEA Protector	Coruscant	8	Mon Calamari	21
+NSEA Protector	Mon Calamari	25	Coruscant	38
+NSEA Protector	Coruscant	42	Corulag	48
+NSEA Protector	Corulag	52	Coruscant	58
+NSEA Protector	Coruscant	62	Mon Calamari	75
+NSEA Protector	Mon Calamari	79	Coruscant	92
+NSEA Protector	Coruscant	96	Corellia	100
+NSEA Protector	Corellia	104	Coruscant	108
+NSEA Protector	Coruscant	112	Mon Calamari	125
+NSEA Protector	Mon Calamari	129	Coruscant	142
+NSEA Protector	Coruscant	146	Corulag	152
+NSEA Protector	Corulag	156	Coruscant	162
+NSEA Protector	Coruscant	166	Mon Calamari	179
+NSEA Protector	Mon Calamari	183	Coruscant	196
+NSEA Protector	Coruscant	200	Corellia	204
+NSEA Protector	Corellia	208	Coruscant	212
+NSEA Protector	Coruscant	216	Mon Calamari	229
+NSEA Protector	Mon Calamari	233	Coruscant	246
+NSEA Protector	Coruscant	250	Corulag	256
+NSEA Protector	Corulag	260	Coruscant	266
+NSEA Protector	Coruscant	270	Mon Calamari	283
+NSEA Protector	Mon Calamari	287	Coruscant	300
+NSEA Protector	Coruscant	304	Corellia	308
+NSEA Protector	Corellia	312	Coruscant	316
+NSEA Protector	Coruscant	320	Mon Calamari	333
+NSEA Protector	Mon Calamari	337	Coruscant	350
+NSEA Protector	Coruscant	354	Corulag	360
+NSEA Protector	Corulag	364	Coruscant	370
+NSEA Protector	Coruscant	374	Mon Calamari	387
+NSEA Protector	Mon Calamari	391	Coruscant	404
+NSEA Protector	Coruscant	408	Corellia	412
+NSEA Protector	Corellia	416	Coruscant	420
+NSEA Protector	Coruscant	424	Mon Calamari	437
+NSEA Protector	Mon Calamari	441	Coruscant	454
+NSEA Protector	Coruscant	458	Corulag	464
+NSEA Protector	Corulag	468	Coruscant	474
+NSEA Protector	Coruscant	478	Mon Calamari	491
+NSEA Protector	Mon Calamari	495	Coruscant	508
+NSEA Protector	Coruscant	512	Corellia	516
+Red Dwarf	Corellia	0	Bespin	6
+Red Dwarf	Bespin	10	Alderaan	18
+Red Dwarf	Alderaan	22	Tatooine	29
+Red Dwarf	Tatooine	33	Corellia	37
+Red Dwarf	Corellia	41	Yaga Minor	53
+Red Dwarf	Yaga Minor	57	Corellia	69
+Red Dwarf	Corellia	73	Tatooine	77
+Red Dwarf	Tatooine	81	Alderaan	88
+Red Dwarf	Alderaan	92	Bespin	100
+Red Dwarf	Bespin	104	Corellia	110
+Red Dwarf	Corellia	114	Bespin	120
+Red Dwarf	Bespin	124	Alderaan	132
+Red Dwarf	Alderaan	136	Tatooine	143
+Red Dwarf	Tatooine	147	Corellia	151
+Red Dwarf	Corellia	155	Yaga Minor	167
+Red Dwarf	Yaga Minor	171	Corellia	183
+Red Dwarf	Corellia	187	Tatooine	191
+Red Dwarf	Tatooine	195	Alderaan	202
+Red Dwarf	Alderaan	206	Bespin	214
+Red Dwarf	Bespin	218	Corellia	224
+Red Dwarf	Corellia	228	Bespin	234
+Red Dwarf	Bespin	238	Alderaan	246
+Red Dwarf	Alderaan	250	Tatooine	257
+Red Dwarf	Tatooine	261	Corellia	265
+Red Dwarf	Corellia	269	Yaga Minor	281
+Red Dwarf	Yaga Minor	285	Corellia	297
+Red Dwarf	Corellia	301	Tatooine	305
+Red Dwarf	Tatooine	309	Alderaan	316
+Red Dwarf	Alderaan	320	Bespin	328
+Red Dwarf	Bespin	332	Corellia	338
+Red Dwarf	Corellia	342	Bespin	348
+Red Dwarf	Bespin	352	Alderaan	360
+Red Dwarf	Alderaan	364	Tatooine	371
+Red Dwarf	Tatooine	375	Corellia	379
+Red Dwarf	Corellia	383	Yaga Minor	395
+Red Dwarf	Yaga Minor	399	Corellia	411
+Red Dwarf	Corellia	415	Tatooine	419
+Red Dwarf	Tatooine	423	Alderaan	430
+Red Dwarf	Alderaan	434	Bespin	442
+Red Dwarf	Bespin	446	Corellia	452
+Red Dwarf	Corellia	456	Bespin	462
+Red Dwarf	Bespin	466	Alderaan	474
+Red Dwarf	Alderaan	478	Tatooine	485
+Red Dwarf	Tatooine	489	Corellia	493
+Red Dwarf	Corellia	497	Yaga Minor	509
+Red Dwarf	Yaga Minor	513	Corellia	525
+Red Dwarf	Corellia	529	Tatooine	533
+Red Dwarf	Tatooine	537	Alderaan	544
+Red Dwarf	Alderaan	548	Bespin	556
+Red Dwarf	Bespin	560	Corellia	566
+Serenity	Endor	0	Sullust	19
+Serenity	Sullust	23	Hoth	45
+Serenity	Hoth	49	Bespin	53
+Serenity	Bespin	57	Hoth	61
+Serenity	Hoth	65	Sullust	87
+Serenity	Sullust	91	Endor	110
+Serenity	Endor	114	Sullust	133
+Serenity	Sullust	137	Hoth	159
+Serenity	Hoth	163	Bespin	167
+Serenity	Bespin	171	Hoth	175
+Serenity	Hoth	179	Sullust	201
+Serenity	Sullust	205	Endor	224
+Serenity	Endor	228	Sullust	247
+Serenity	Sullust	251	Hoth	273
+Serenity	Hoth	277	Bespin	281
+Serenity	Bespin	285	Hoth	289
+Serenity	Hoth	293	Sullust	315
+Serenity	Sullust	319	Endor	338
+Serenity	Endor	342	Sullust	361
+Serenity	Sullust	365	Hoth	387
+Serenity	Hoth	391	Bespin	395
+Serenity	Bespin	399	Hoth	403
+Serenity	Hoth	407	Sullust	429
+Serenity	Sullust	433	Endor	452
+Serenity	Endor	456	Sullust	475
+Serenity	Sullust	479	Hoth	501
+Serenity	Hoth	505	Bespin	509
+Serenity	Bespin	513	Hoth	517
+Serenity	Hoth	521	Sullust	543
+Serenity	Sullust	547	Endor	566
+USS Enterprise	Gamorr	0	Tatooine	40
+USS Enterprise	Tatooine	44	Gamorr	84
+USS Enterprise	Gamorr	88	Tatooine	128
+USS Enterprise	Tatooine	132	Gamorr	172
+USS Enterprise	Gamorr	176	Tatooine	216
+USS Enterprise	Tatooine	220	Gamorr	260
+USS Enterprise	Gamorr	264	Tatooine	304
+USS Enterprise	Tatooine	308	Gamorr	348
+USS Enterprise	Gamorr	352	Tatooine	392
+USS Enterprise	Tatooine	396	Gamorr	436
+USS Enterprise	Gamorr	440	Tatooine	480
+USS Enterprise	Tatooine	484	Gamorr	524
+get record has no problem and is validated.
+
+galaxy dump starts here: printing all the planets
+-------Alderaan-------
+To destination planet: Bespin	Enroute time: 8
+Available Times:
+	 By Red Dwarf	Departure time: 92	Arrival time: 100
+	 By Red Dwarf	Departure time: 206	Arrival time: 214
+	 By Red Dwarf	Departure time: 320	Arrival time: 328
+	 By Red Dwarf	Departure time: 434	Arrival time: 442
+	 By Red Dwarf	Departure time: 548	Arrival time: 556
+
+To destination planet: Corellia	Enroute time: 6
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 16
+There is no available to time offered
+
+To destination planet: Dagobah	Enroute time: 30
+There is no available to time offered
+
+To destination planet: Dantooine	Enroute time: 13
+Available Times:
+	 By Millenium Falcon	Departure time: 71	Arrival time: 84
+	 By Millenium Falcon	Departure time: 195	Arrival time: 208
+	 By Millenium Falcon	Departure time: 319	Arrival time: 332
+	 By Millenium Falcon	Departure time: 443	Arrival time: 456
+	 By Millenium Falcon	Departure time: 567	Arrival time: 580
+
+To destination planet: Endor	Enroute time: 18
+There is no available to time offered
+
+To destination planet: Gamorr	Enroute time: 180
+There is no available to time offered
+
+To destination planet: Hoth	Enroute time: 27
+There is no available to time offered
+
+To destination planet: Sullust	Enroute time: 213
+There is no available to time offered
+
+To destination planet: Tatooine	Enroute time: 7
+Available Times:
+	 By Red Dwarf	Departure time: 22	Arrival time: 29
+	 By Red Dwarf	Departure time: 136	Arrival time: 143
+	 By Red Dwarf	Departure time: 250	Arrival time: 257
+	 By Red Dwarf	Departure time: 364	Arrival time: 371
+	 By Red Dwarf	Departure time: 478	Arrival time: 485
+
+To destination planet: Yavin	Enroute time: 5
+Available Times:
+	 By Millenium Falcon	Departure time: 53	Arrival time: 58
+	 By Millenium Falcon	Departure time: 177	Arrival time: 182
+	 By Millenium Falcon	Departure time: 301	Arrival time: 306
+	 By Millenium Falcon	Departure time: 425	Arrival time: 430
+	 By Millenium Falcon	Departure time: 549	Arrival time: 554
+
+-------Bespin-------
+To destination planet: Alderaan	Enroute time: 8
+Available Times:
+	 By Red Dwarf	Departure time: 10	Arrival time: 18
+	 By Red Dwarf	Departure time: 124	Arrival time: 132
+	 By Red Dwarf	Departure time: 238	Arrival time: 246
+	 By Red Dwarf	Departure time: 352	Arrival time: 360
+	 By Red Dwarf	Departure time: 466	Arrival time: 474
+
+To destination planet: Corellia	Enroute time: 6
+Available Times:
+	 By Red Dwarf	Departure time: 104	Arrival time: 110
+	 By Red Dwarf	Departure time: 218	Arrival time: 224
+	 By Red Dwarf	Departure time: 332	Arrival time: 338
+	 By Red Dwarf	Departure time: 446	Arrival time: 452
+	 By Red Dwarf	Departure time: 560	Arrival time: 566
+
+To destination planet: Coruscant	Enroute time: 158
+There is no available to time offered
+
+To destination planet: Dagobah	Enroute time: 27
+There is no available to time offered
+
+To destination planet: Dantooine	Enroute time: 22
+There is no available to time offered
+
+To destination planet: Endor	Enroute time: 32
+There is no available to time offered
+
+To destination planet: Gamorr	Enroute time: 75
+There is no available to time offered
+
+To destination planet: Hoth	Enroute time: 4
+Available Times:
+	 By Serenity	Departure time: 57	Arrival time: 61
+	 By Serenity	Departure time: 171	Arrival time: 175
+	 By Serenity	Departure time: 285	Arrival time: 289
+	 By Serenity	Departure time: 399	Arrival time: 403
+	 By Serenity	Departure time: 513	Arrival time: 517
+
+To destination planet: Sullust	Enroute time: 268
+There is no available to time offered
+
+To destination planet: Tatooine	Enroute time: 16
+There is no available to time offered
+
+To destination planet: Yavin	Enroute time: 11
+There is no available to time offered
+
+-------Corellia-------
+To destination planet: Alderaan	Enroute time: 6
+There is no available to time offered
+
+To destination planet: Bespin	Enroute time: 6
+Available Times:
+	 By Red Dwarf	Departure time: 0	Arrival time: 6
+	 By Red Dwarf	Departure time: 114	Arrival time: 120
+	 By Red Dwarf	Departure time: 228	Arrival time: 234
+	 By Red Dwarf	Departure time: 342	Arrival time: 348
+	 By Red Dwarf	Departure time: 456	Arrival time: 462
+
+To destination planet: Coruscant	Enroute time: 4
+There is no available to time offered
+
+To destination planet: Dagobah	Enroute time: 31
+There is no available to time offered
+
+To destination planet: Dantooine	Enroute time: 12
+There is no available to time offered
+
+To destination planet: Endor	Enroute time: 17
+There is no available to time offered
+
+To destination planet: Gamorr	Enroute time: 254
+There is no available to time offered
+
+To destination planet: Hoth	Enroute time: 21
+There is no available to time offered
+
+To destination planet: Sullust	Enroute time: 19
+There is no available to time offered
+
+To destination planet: Tatooine	Enroute time: 4
+Available Times:
+	 By Red Dwarf	Departure time: 73	Arrival time: 77
+	 By Red Dwarf	Departure time: 187	Arrival time: 191
+	 By Red Dwarf	Departure time: 301	Arrival time: 305
+	 By Red Dwarf	Departure time: 415	Arrival time: 419
+	 By Red Dwarf	Departure time: 529	Arrival time: 533
+
+To destination planet: Yavin	Enroute time: 15
+There is no available to time offered
+
+To destination planet: Brentaal	Enroute time: 3
+There is no available to time offered
+
+To destination planet: Chandrila	Enroute time: 2
+There is no available to time offered
+
+To destination planet: Corulag	Enroute time: 1
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 4
+There is no available to time offered
+
+To destination planet: Esseles	Enroute time: 4
+There is no available to time offered
+
+To destination planet: Rhinnal	Enroute time: 7
+There is no available to time offered
+
+To destination planet: Ralltiir	Enroute time: 9
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 4
+There is no available to time offered
+
+To destination planet: Kashyyyk	Enroute time: 36
+There is no available to time offered
+
+To destination planet: Myrkr	Enroute time: 81
+There is no available to time offered
+
+To destination planet: Wayland	Enroute time: 99
+There is no available to time offered
+
+To destination planet: Yaga Minor	Enroute time: 12
+Available Times:
+	 By Red Dwarf	Departure time: 41	Arrival time: 53
+	 By Red Dwarf	Departure time: 155	Arrival time: 167
+	 By Red Dwarf	Departure time: 269	Arrival time: 281
+	 By Red Dwarf	Departure time: 383	Arrival time: 395
+	 By Red Dwarf	Departure time: 497	Arrival time: 509
+
+To destination planet: Bakura	Enroute time: 52
+There is no available to time offered
+
+To destination planet: Corporate Sector	Enroute time: 9
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 4
+Available Times:
+	 By NSEA Protector	Departure time: 0	Arrival time: 4
+	 By NSEA Protector	Departure time: 104	Arrival time: 108
+	 By NSEA Protector	Departure time: 208	Arrival time: 212
+	 By NSEA Protector	Departure time: 312	Arrival time: 316
+	 By NSEA Protector	Departure time: 416	Arrival time: 420
+
+To destination planet: Hapes Cluster	Enroute time: 21
+There is no available to time offered
+
+To destination planet: Kessel	Enroute time: 10
+There is no available to time offered
+
+To destination planet: Mon Calamari	Enroute time: 6
+There is no available to time offered
+
+-------Coruscant-------
+To destination planet: Alderaan	Enroute time: 16
+There is no available to time offered
+
+To destination planet: Bespin	Enroute time: 158
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 4
+There is no available to time offered
+
+To destination planet: Dagobah	Enroute time: 302
+There is no available to time offered
+
+To destination planet: Dantooine	Enroute time: 19
+There is no available to time offered
+
+To destination planet: Endor	Enroute time: 156
+There is no available to time offered
+
+To destination planet: Gamorr	Enroute time: 387
+There is no available to time offered
+
+To destination planet: Hoth	Enroute time: 81
+There is no available to time offered
+
+To destination planet: Sullust	Enroute time: 194
+There is no available to time offered
+
+To destination planet: Tatooine	Enroute time: 542
+There is no available to time offered
+
+To destination planet: Yavin	Enroute time: 128
+There is no available to time offered
+
+To destination planet: Brentaal	Enroute time: 7
+There is no available to time offered
+
+To destination planet: Chandrila	Enroute time: 5
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 4
+There is no available to time offered
+
+To destination planet: Corulag	Enroute time: 6
+Available Times:
+	 By NSEA Protector	Departure time: 42	Arrival time: 48
+	 By NSEA Protector	Departure time: 146	Arrival time: 152
+	 By NSEA Protector	Departure time: 250	Arrival time: 256
+	 By NSEA Protector	Departure time: 354	Arrival time: 360
+	 By NSEA Protector	Departure time: 458	Arrival time: 464
+
+To destination planet: Esseles	Enroute time: 8
+There is no available to time offered
+
+To destination planet: Rhinnal	Enroute time: 10
+There is no available to time offered
+
+To destination planet: Ralltiir	Enroute time: 12
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 4
+There is no available to time offered
+
+To destination planet: Kashyyyk	Enroute time: 43
+There is no available to time offered
+
+To destination planet: Myrkr	Enroute time: 108
+There is no available to time offered
+
+To destination planet: Wayland	Enroute time: 58
+There is no available to time offered
+
+To destination planet: Yaga Minor	Enroute time: 15
+There is no available to time offered
+
+To destination planet: Bakura	Enroute time: 77
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 4
+Available Times:
+	 By NSEA Protector	Departure time: 96	Arrival time: 100
+	 By NSEA Protector	Departure time: 200	Arrival time: 204
+	 By NSEA Protector	Departure time: 304	Arrival time: 308
+	 By NSEA Protector	Departure time: 408	Arrival time: 412
+	 By NSEA Protector	Departure time: 512	Arrival time: 516
+
+To destination planet: Corporate Sector	Enroute time: 15
+There is no available to time offered
+
+To destination planet: Hapes Cluster	Enroute time: 39
+There is no available to time offered
+
+To destination planet: Kessel	Enroute time: 27
+There is no available to time offered
+
+To destination planet: Mon Calamari	Enroute time: 13
+Available Times:
+	 By NSEA Protector	Departure time: 8	Arrival time: 21
+	 By NSEA Protector	Departure time: 62	Arrival time: 75
+	 By NSEA Protector	Departure time: 112	Arrival time: 125
+	 By NSEA Protector	Departure time: 166	Arrival time: 179
+	 By NSEA Protector	Departure time: 216	Arrival time: 229
+	 By NSEA Protector	Departure time: 270	Arrival time: 283
+	 By NSEA Protector	Departure time: 320	Arrival time: 333
+	 By NSEA Protector	Departure time: 374	Arrival time: 387
+	 By NSEA Protector	Departure time: 424	Arrival time: 437
+	 By NSEA Protector	Departure time: 478	Arrival time: 491
+
+-------Dagobah-------
+To destination planet: Alderaan	Enroute time: 30
+There is no available to time offered
+
+To destination planet: Bespin	Enroute time: 27
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 31
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 302
+There is no available to time offered
+
+To destination planet: Dantooine	Enroute time: 32
+Available Times:
+	 By Millenium Falcon	Departure time: 0	Arrival time: 32
+	 By Millenium Falcon	Departure time: 124	Arrival time: 156
+	 By Millenium Falcon	Departure time: 248	Arrival time: 280
+	 By Millenium Falcon	Departure time: 372	Arrival time: 404
+	 By Millenium Falcon	Departure time: 496	Arrival time: 528
+
+To destination planet: Endor	Enroute time: 97
+There is no available to time offered
+
+To destination planet: Gamorr	Enroute time: 656
+There is no available to time offered
+
+To destination planet: Hoth	Enroute time: 89
+There is no available to time offered
+
+To destination planet: Sullust	Enroute time: 78
+There is no available to time offered
+
+To destination planet: Tatooine	Enroute time: 28
+There is no available to time offered
+
+To destination planet: Yavin	Enroute time: 314
+There is no available to time offered
+
+-------Dantooine-------
+To destination planet: Alderaan	Enroute time: 13
+Available Times:
+	 By Millenium Falcon	Departure time: 36	Arrival time: 49
+	 By Millenium Falcon	Departure time: 160	Arrival time: 173
+	 By Millenium Falcon	Departure time: 284	Arrival time: 297
+	 By Millenium Falcon	Departure time: 408	Arrival time: 421
+	 By Millenium Falcon	Departure time: 532	Arrival time: 545
+
+To destination planet: Bespin	Enroute time: 22
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 12
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 19
+There is no available to time offered
+
+To destination planet: Dagobah	Enroute time: 32
+Available Times:
+	 By Millenium Falcon	Departure time: 88	Arrival time: 120
+	 By Millenium Falcon	Departure time: 212	Arrival time: 244
+	 By Millenium Falcon	Departure time: 336	Arrival time: 368
+	 By Millenium Falcon	Departure time: 460	Arrival time: 492
+	 By Millenium Falcon	Departure time: 584	Arrival time: 616
+
+To destination planet: Endor	Enroute time: 21
+There is no available to time offered
+
+To destination planet: Gamorr	Enroute time: 86
+There is no available to time offered
+
+To destination planet: Hoth	Enroute time: 28
+There is no available to time offered
+
+To destination planet: Sullust	Enroute time: 126
+There is no available to time offered
+
+To destination planet: Tatooine	Enroute time: 20
+There is no available to time offered
+
+To destination planet: Yavin	Enroute time: 12
+There is no available to time offered
+
+-------Endor-------
+To destination planet: Alderaan	Enroute time: 18
+There is no available to time offered
+
+To destination planet: Bespin	Enroute time: 32
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 17
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 156
+There is no available to time offered
+
+To destination planet: Dagobah	Enroute time: 97
+There is no available to time offered
+
+To destination planet: Dantooine	Enroute time: 21
+There is no available to time offered
+
+To destination planet: Gamorr	Enroute time: 341
+There is no available to time offered
+
+To destination planet: Hoth	Enroute time: 60
+There is no available to time offered
+
+To destination planet: Sullust	Enroute time: 19
+Available Times:
+	 By Serenity	Departure time: 0	Arrival time: 19
+	 By Serenity	Departure time: 114	Arrival time: 133
+	 By Serenity	Departure time: 228	Arrival time: 247
+	 By Serenity	Departure time: 342	Arrival time: 361
+	 By Serenity	Departure time: 456	Arrival time: 475
+
+To destination planet: Tatooine	Enroute time: 24
+There is no available to time offered
+
+To destination planet: Yavin	Enroute time: 10
+There is no available to time offered
+
+-------Gamorr-------
+To destination planet: Alderaan	Enroute time: 180
+There is no available to time offered
+
+To destination planet: Bespin	Enroute time: 75
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 254
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 387
+There is no available to time offered
+
+To destination planet: Dagobah	Enroute time: 656
+There is no available to time offered
+
+To destination planet: Dantooine	Enroute time: 86
+There is no available to time offered
+
+To destination planet: Endor	Enroute time: 341
+There is no available to time offered
+
+To destination planet: Hoth	Enroute time: 346
+There is no available to time offered
+
+To destination planet: Sullust	Enroute time: 74
+There is no available to time offered
+
+To destination planet: Tatooine	Enroute time: 40
+Available Times:
+	 By USS Enterprise	Departure time: 0	Arrival time: 40
+	 By USS Enterprise	Departure time: 88	Arrival time: 128
+	 By USS Enterprise	Departure time: 176	Arrival time: 216
+	 By USS Enterprise	Departure time: 264	Arrival time: 304
+	 By USS Enterprise	Departure time: 352	Arrival time: 392
+	 By USS Enterprise	Departure time: 440	Arrival time: 480
+
+To destination planet: Yavin	Enroute time: 55
+There is no available to time offered
+
+-------Hoth-------
+To destination planet: Alderaan	Enroute time: 27
+There is no available to time offered
+
+To destination planet: Bespin	Enroute time: 4
+Available Times:
+	 By Serenity	Departure time: 49	Arrival time: 53
+	 By Serenity	Departure time: 163	Arrival time: 167
+	 By Serenity	Departure time: 277	Arrival time: 281
+	 By Serenity	Departure time: 391	Arrival time: 395
+	 By Serenity	Departure time: 505	Arrival time: 509
+
+To destination planet: Corellia	Enroute time: 21
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 81
+There is no available to time offered
+
+To destination planet: Dagobah	Enroute time: 89
+There is no available to time offered
+
+To destination planet: Dantooine	Enroute time: 28
+There is no available to time offered
+
+To destination planet: Endor	Enroute time: 60
+There is no available to time offered
+
+To destination planet: Gamorr	Enroute time: 346
+There is no available to time offered
+
+To destination planet: Sullust	Enroute time: 22
+Available Times:
+	 By Serenity	Departure time: 65	Arrival time: 87
+	 By Serenity	Departure time: 179	Arrival time: 201
+	 By Serenity	Departure time: 293	Arrival time: 315
+	 By Serenity	Departure time: 407	Arrival time: 429
+	 By Serenity	Departure time: 521	Arrival time: 543
+
+To destination planet: Tatooine	Enroute time: 56
+There is no available to time offered
+
+To destination planet: Yavin	Enroute time: 39
+There is no available to time offered
+
+-------Sullust-------
+To destination planet: Alderaan	Enroute time: 213
+There is no available to time offered
+
+To destination planet: Bespin	Enroute time: 268
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 19
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 194
+There is no available to time offered
+
+To destination planet: Dagobah	Enroute time: 78
+There is no available to time offered
+
+To destination planet: Dantooine	Enroute time: 126
+There is no available to time offered
+
+To destination planet: Endor	Enroute time: 19
+Available Times:
+	 By Serenity	Departure time: 91	Arrival time: 110
+	 By Serenity	Departure time: 205	Arrival time: 224
+	 By Serenity	Departure time: 319	Arrival time: 338
+	 By Serenity	Departure time: 433	Arrival time: 452
+	 By Serenity	Departure time: 547	Arrival time: 566
+
+To destination planet: Gamorr	Enroute time: 74
+There is no available to time offered
+
+To destination planet: Hoth	Enroute time: 22
+Available Times:
+	 By Serenity	Departure time: 23	Arrival time: 45
+	 By Serenity	Departure time: 137	Arrival time: 159
+	 By Serenity	Departure time: 251	Arrival time: 273
+	 By Serenity	Departure time: 365	Arrival time: 387
+	 By Serenity	Departure time: 479	Arrival time: 501
+
+To destination planet: Tatooine	Enroute time: 38
+There is no available to time offered
+
+To destination planet: Yavin	Enroute time: 17
+There is no available to time offered
+
+-------Tatooine-------
+To destination planet: Alderaan	Enroute time: 7
+Available Times:
+	 By Red Dwarf	Departure time: 81	Arrival time: 88
+	 By Red Dwarf	Departure time: 195	Arrival time: 202
+	 By Red Dwarf	Departure time: 309	Arrival time: 316
+	 By Red Dwarf	Departure time: 423	Arrival time: 430
+	 By Red Dwarf	Departure time: 537	Arrival time: 544
+
+To destination planet: Bespin	Enroute time: 16
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 4
+Available Times:
+	 By Red Dwarf	Departure time: 33	Arrival time: 37
+	 By Red Dwarf	Departure time: 147	Arrival time: 151
+	 By Red Dwarf	Departure time: 261	Arrival time: 265
+	 By Red Dwarf	Departure time: 375	Arrival time: 379
+	 By Red Dwarf	Departure time: 489	Arrival time: 493
+
+To destination planet: Coruscant	Enroute time: 542
+There is no available to time offered
+
+To destination planet: Dagobah	Enroute time: 28
+There is no available to time offered
+
+To destination planet: Dantooine	Enroute time: 20
+There is no available to time offered
+
+To destination planet: Endor	Enroute time: 24
+There is no available to time offered
+
+To destination planet: Gamorr	Enroute time: 40
+Available Times:
+	 By USS Enterprise	Departure time: 44	Arrival time: 84
+	 By USS Enterprise	Departure time: 132	Arrival time: 172
+	 By USS Enterprise	Departure time: 220	Arrival time: 260
+	 By USS Enterprise	Departure time: 308	Arrival time: 348
+	 By USS Enterprise	Departure time: 396	Arrival time: 436
+	 By USS Enterprise	Departure time: 484	Arrival time: 524
+
+To destination planet: Hoth	Enroute time: 56
+There is no available to time offered
+
+To destination planet: Sullust	Enroute time: 38
+There is no available to time offered
+
+To destination planet: Yavin	Enroute time: 15
+There is no available to time offered
+
+-------Yavin-------
+To destination planet: Alderaan	Enroute time: 5
+Available Times:
+	 By Millenium Falcon	Departure time: 62	Arrival time: 67
+	 By Millenium Falcon	Departure time: 186	Arrival time: 191
+	 By Millenium Falcon	Departure time: 310	Arrival time: 315
+	 By Millenium Falcon	Departure time: 434	Arrival time: 439
+	 By Millenium Falcon	Departure time: 558	Arrival time: 563
+
+To destination planet: Bespin	Enroute time: 11
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 15
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 128
+There is no available to time offered
+
+To destination planet: Dagobah	Enroute time: 314
+There is no available to time offered
+
+To destination planet: Dantooine	Enroute time: 12
+There is no available to time offered
+
+To destination planet: Endor	Enroute time: 10
+There is no available to time offered
+
+To destination planet: Gamorr	Enroute time: 55
+There is no available to time offered
+
+To destination planet: Hoth	Enroute time: 39
+There is no available to time offered
+
+To destination planet: Sullust	Enroute time: 17
+There is no available to time offered
+
+To destination planet: Tatooine	Enroute time: 15
+There is no available to time offered
+
+-------Brentaal-------
+To destination planet: Chandrila	Enroute time: 1
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 3
+There is no available to time offered
+
+To destination planet: Corulag	Enroute time: 2
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 7
+There is no available to time offered
+
+To destination planet: Esseles	Enroute time: 2
+There is no available to time offered
+
+To destination planet: Rhinnal	Enroute time: 5
+Available Times:
+	 By Moya	Departure time: 6	Arrival time: 11
+	 By Moya	Departure time: 49	Arrival time: 54
+	 By Moya	Departure time: 92	Arrival time: 97
+	 By Moya	Departure time: 135	Arrival time: 140
+	 By Moya	Departure time: 178	Arrival time: 183
+	 By Moya	Departure time: 221	Arrival time: 226
+	 By Moya	Departure time: 264	Arrival time: 269
+	 By Moya	Departure time: 307	Arrival time: 312
+	 By Moya	Departure time: 350	Arrival time: 355
+	 By Moya	Departure time: 393	Arrival time: 398
+
+To destination planet: Ralltiir	Enroute time: 7
+There is no available to time offered
+
+-------Chandrila-------
+To destination planet: Brentaal	Enroute time: 1
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 2
+There is no available to time offered
+
+To destination planet: Corulag	Enroute time: 1
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 5
+There is no available to time offered
+
+To destination planet: Esseles	Enroute time: 3
+Available Times:
+	 By Moya	Departure time: 28	Arrival time: 31
+	 By Moya	Departure time: 71	Arrival time: 74
+	 By Moya	Departure time: 114	Arrival time: 117
+	 By Moya	Departure time: 157	Arrival time: 160
+	 By Moya	Departure time: 200	Arrival time: 203
+	 By Moya	Departure time: 243	Arrival time: 246
+	 By Moya	Departure time: 286	Arrival time: 289
+	 By Moya	Departure time: 329	Arrival time: 332
+	 By Moya	Departure time: 372	Arrival time: 375
+	 By Moya	Departure time: 415	Arrival time: 418
+
+To destination planet: Rhinnal	Enroute time: 2
+There is no available to time offered
+
+To destination planet: Ralltiir	Enroute time: 4
+There is no available to time offered
+
+-------Corulag-------
+To destination planet: Brentaal	Enroute time: 2
+Available Times:
+	 By Moya	Departure time: 0	Arrival time: 2
+	 By Moya	Departure time: 43	Arrival time: 45
+	 By Moya	Departure time: 86	Arrival time: 88
+	 By Moya	Departure time: 129	Arrival time: 131
+	 By Moya	Departure time: 172	Arrival time: 174
+	 By Moya	Departure time: 215	Arrival time: 217
+	 By Moya	Departure time: 258	Arrival time: 260
+	 By Moya	Departure time: 301	Arrival time: 303
+	 By Moya	Departure time: 344	Arrival time: 346
+	 By Moya	Departure time: 387	Arrival time: 389
+
+To destination planet: Chandrila	Enroute time: 1
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 1
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 6
+Available Times:
+	 By NSEA Protector	Departure time: 52	Arrival time: 58
+	 By NSEA Protector	Departure time: 156	Arrival time: 162
+	 By NSEA Protector	Departure time: 260	Arrival time: 266
+	 By NSEA Protector	Departure time: 364	Arrival time: 370
+	 By NSEA Protector	Departure time: 468	Arrival time: 474
+
+To destination planet: Esseles	Enroute time: 4
+There is no available to time offered
+
+To destination planet: Rhinnal	Enroute time: 8
+There is no available to time offered
+
+To destination planet: Ralltiir	Enroute time: 11
+There is no available to time offered
+
+-------Esseles-------
+To destination planet: Brentaal	Enroute time: 2
+There is no available to time offered
+
+To destination planet: Chandrila	Enroute time: 3
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 4
+There is no available to time offered
+
+To destination planet: Corulag	Enroute time: 4
+Available Times:
+	 By Moya	Departure time: 35	Arrival time: 39
+	 By Moya	Departure time: 78	Arrival time: 82
+	 By Moya	Departure time: 121	Arrival time: 125
+	 By Moya	Departure time: 164	Arrival time: 168
+	 By Moya	Departure time: 207	Arrival time: 211
+	 By Moya	Departure time: 250	Arrival time: 254
+	 By Moya	Departure time: 293	Arrival time: 297
+	 By Moya	Departure time: 336	Arrival time: 340
+	 By Moya	Departure time: 379	Arrival time: 383
+	 By Moya	Departure time: 422	Arrival time: 426
+
+To destination planet: Coruscant	Enroute time: 8
+There is no available to time offered
+
+To destination planet: Rhinnal	Enroute time: 2
+There is no available to time offered
+
+To destination planet: Ralltiir	Enroute time: 4
+There is no available to time offered
+
+-------Rhinnal-------
+To destination planet: Brentaal	Enroute time: 5
+There is no available to time offered
+
+To destination planet: Chandrila	Enroute time: 2
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 7
+There is no available to time offered
+
+To destination planet: Corulag	Enroute time: 8
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 10
+There is no available to time offered
+
+To destination planet: Esseles	Enroute time: 2
+There is no available to time offered
+
+To destination planet: Ralltiir	Enroute time: 1
+Available Times:
+	 By Moya	Departure time: 15	Arrival time: 16
+	 By Moya	Departure time: 58	Arrival time: 59
+	 By Moya	Departure time: 101	Arrival time: 102
+	 By Moya	Departure time: 144	Arrival time: 145
+	 By Moya	Departure time: 187	Arrival time: 188
+	 By Moya	Departure time: 230	Arrival time: 231
+	 By Moya	Departure time: 273	Arrival time: 274
+	 By Moya	Departure time: 316	Arrival time: 317
+	 By Moya	Departure time: 359	Arrival time: 360
+	 By Moya	Departure time: 402	Arrival time: 403
+
+-------Ralltiir-------
+To destination planet: Brentaal	Enroute time: 7
+There is no available to time offered
+
+To destination planet: Chandrila	Enroute time: 4
+Available Times:
+	 By Moya	Departure time: 20	Arrival time: 24
+	 By Moya	Departure time: 63	Arrival time: 67
+	 By Moya	Departure time: 106	Arrival time: 110
+	 By Moya	Departure time: 149	Arrival time: 153
+	 By Moya	Departure time: 192	Arrival time: 196
+	 By Moya	Departure time: 235	Arrival time: 239
+	 By Moya	Departure time: 278	Arrival time: 282
+	 By Moya	Departure time: 321	Arrival time: 325
+	 By Moya	Departure time: 364	Arrival time: 368
+	 By Moya	Departure time: 407	Arrival time: 411
+
+To destination planet: Corellia	Enroute time: 9
+There is no available to time offered
+
+To destination planet: Corulag	Enroute time: 11
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 12
+There is no available to time offered
+
+To destination planet: Esseles	Enroute time: 4
+There is no available to time offered
+
+To destination planet: Rhinnal	Enroute time: 1
+There is no available to time offered
+
+-------Kashyyyk-------
+To destination planet: Corellia	Enroute time: 36
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 43
+There is no available to time offered
+
+To destination planet: Myrkr	Enroute time: 55
+There is no available to time offered
+
+To destination planet: Wayland	Enroute time: 54
+There is no available to time offered
+
+To destination planet: Yaga Minor	Enroute time: 53
+Available Times:
+	 By USSC Discovery One	Departure time: 57	Arrival time: 110
+	 By USSC Discovery One	Departure time: 171	Arrival time: 224
+	 By USSC Discovery One	Departure time: 285	Arrival time: 338
+	 By USSC Discovery One	Departure time: 399	Arrival time: 452
+	 By USSC Discovery One	Departure time: 513	Arrival time: 566
+
+-------Myrkr-------
+To destination planet: Corellia	Enroute time: 81
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 108
+There is no available to time offered
+
+To destination planet: Kashyyyk	Enroute time: 55
+There is no available to time offered
+
+To destination planet: Wayland	Enroute time: 21
+Available Times:
+	 By Andromeda Ascendant	Departure time: 59	Arrival time: 80
+	 By Andromeda Ascendant	Departure time: 177	Arrival time: 198
+	 By Andromeda Ascendant	Departure time: 295	Arrival time: 316
+	 By Andromeda Ascendant	Departure time: 413	Arrival time: 434
+	 By Andromeda Ascendant	Departure time: 531	Arrival time: 552
+
+To destination planet: Yaga Minor	Enroute time: 55
+There is no available to time offered
+
+-------Wayland-------
+To destination planet: Corellia	Enroute time: 99
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 58
+There is no available to time offered
+
+To destination planet: Kashyyyk	Enroute time: 54
+There is no available to time offered
+
+To destination planet: Myrkr	Enroute time: 21
+Available Times:
+	 By Andromeda Ascendant	Departure time: 34	Arrival time: 55
+	 By Andromeda Ascendant	Departure time: 152	Arrival time: 173
+	 By Andromeda Ascendant	Departure time: 270	Arrival time: 291
+	 By Andromeda Ascendant	Departure time: 388	Arrival time: 409
+	 By Andromeda Ascendant	Departure time: 506	Arrival time: 527
+
+To destination planet: Yaga Minor	Enroute time: 30
+Available Times:
+	 By Andromeda Ascendant	Departure time: 84	Arrival time: 114
+	 By Andromeda Ascendant	Departure time: 202	Arrival time: 232
+	 By Andromeda Ascendant	Departure time: 320	Arrival time: 350
+	 By Andromeda Ascendant	Departure time: 438	Arrival time: 468
+	 By Andromeda Ascendant	Departure time: 556	Arrival time: 586
+
+-------Yaga Minor-------
+To destination planet: Corellia	Enroute time: 12
+Available Times:
+	 By Red Dwarf	Departure time: 57	Arrival time: 69
+	 By Red Dwarf	Departure time: 171	Arrival time: 183
+	 By Red Dwarf	Departure time: 285	Arrival time: 297
+	 By Red Dwarf	Departure time: 399	Arrival time: 411
+	 By Red Dwarf	Departure time: 513	Arrival time: 525
+
+To destination planet: Coruscant	Enroute time: 15
+There is no available to time offered
+
+To destination planet: Kashyyyk	Enroute time: 53
+Available Times:
+	 By USSC Discovery One	Departure time: 0	Arrival time: 53
+	 By USSC Discovery One	Departure time: 114	Arrival time: 167
+	 By USSC Discovery One	Departure time: 228	Arrival time: 281
+	 By USSC Discovery One	Departure time: 342	Arrival time: 395
+	 By USSC Discovery One	Departure time: 456	Arrival time: 509
+
+To destination planet: Myrkr	Enroute time: 55
+There is no available to time offered
+
+To destination planet: Wayland	Enroute time: 30
+Available Times:
+	 By Andromeda Ascendant	Departure time: 0	Arrival time: 30
+	 By Andromeda Ascendant	Departure time: 118	Arrival time: 148
+	 By Andromeda Ascendant	Departure time: 236	Arrival time: 266
+	 By Andromeda Ascendant	Departure time: 354	Arrival time: 384
+	 By Andromeda Ascendant	Departure time: 472	Arrival time: 502
+
+-------Bakura-------
+To destination planet: Corellia	Enroute time: 52
+There is no available to time offered
+
+To destination planet: Corporate Sector	Enroute time: 60
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 77
+There is no available to time offered
+
+To destination planet: Hapes Cluster	Enroute time: 11
+There is no available to time offered
+
+To destination planet: Kessel	Enroute time: 27
+Available Times:
+	 By Heart of Gold	Departure time: 31	Arrival time: 58
+	 By Heart of Gold	Departure time: 93	Arrival time: 120
+	 By Heart of Gold	Departure time: 155	Arrival time: 182
+	 By Heart of Gold	Departure time: 217	Arrival time: 244
+	 By Heart of Gold	Departure time: 279	Arrival time: 306
+	 By Heart of Gold	Departure time: 341	Arrival time: 368
+	 By Heart of Gold	Departure time: 403	Arrival time: 430
+	 By Heart of Gold	Departure time: 465	Arrival time: 492
+	 By Heart of Gold	Departure time: 527	Arrival time: 554
+	 By Heart of Gold	Departure time: 589	Arrival time: 616
+
+To destination planet: Mon Calamari	Enroute time: 22
+There is no available to time offered
+
+-------Corporate Sector-------
+To destination planet: Bakura	Enroute time: 60
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 9
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 15
+There is no available to time offered
+
+To destination planet: Hapes Cluster	Enroute time: 7
+Available Times:
+	 By Galactica	Departure time: 28	Arrival time: 35
+	 By Galactica	Departure time: 138	Arrival time: 145
+	 By Galactica	Departure time: 248	Arrival time: 255
+	 By Galactica	Departure time: 358	Arrival time: 365
+	 By Galactica	Departure time: 468	Arrival time: 475
+	 By Galactica	Departure time: 578	Arrival time: 585
+	 By Galactica	Departure time: 688	Arrival time: 695
+	 By Galactica	Departure time: 798	Arrival time: 805
+	 By Galactica	Departure time: 908	Arrival time: 915
+	 By Galactica	Departure time: 1018	Arrival time: 1025
+
+To destination planet: Kessel	Enroute time: 9
+There is no available to time offered
+
+To destination planet: Mon Calamari	Enroute time: 24
+Available Times:
+	 By Galactica	Departure time: 82	Arrival time: 106
+	 By Galactica	Departure time: 192	Arrival time: 216
+	 By Galactica	Departure time: 302	Arrival time: 326
+	 By Galactica	Departure time: 412	Arrival time: 436
+	 By Galactica	Departure time: 522	Arrival time: 546
+	 By Galactica	Departure time: 632	Arrival time: 656
+	 By Galactica	Departure time: 742	Arrival time: 766
+	 By Galactica	Departure time: 852	Arrival time: 876
+	 By Galactica	Departure time: 962	Arrival time: 986
+	 By Galactica	Departure time: 1072	Arrival time: 1096
+
+-------Hapes Cluster-------
+To destination planet: Bakura	Enroute time: 11
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 21
+There is no available to time offered
+
+To destination planet: Corporate Sector	Enroute time: 7
+Available Times:
+	 By Galactica	Departure time: 71	Arrival time: 78
+	 By Galactica	Departure time: 181	Arrival time: 188
+	 By Galactica	Departure time: 291	Arrival time: 298
+	 By Galactica	Departure time: 401	Arrival time: 408
+	 By Galactica	Departure time: 511	Arrival time: 518
+	 By Galactica	Departure time: 621	Arrival time: 628
+	 By Galactica	Departure time: 731	Arrival time: 738
+	 By Galactica	Departure time: 841	Arrival time: 848
+	 By Galactica	Departure time: 951	Arrival time: 958
+	 By Galactica	Departure time: 1061	Arrival time: 1068
+
+To destination planet: Coruscant	Enroute time: 39
+There is no available to time offered
+
+To destination planet: Kessel	Enroute time: 12
+Available Times:
+	 By Galactica	Departure time: 39	Arrival time: 51
+	 By Galactica	Departure time: 149	Arrival time: 161
+	 By Galactica	Departure time: 259	Arrival time: 271
+	 By Galactica	Departure time: 369	Arrival time: 381
+	 By Galactica	Departure time: 479	Arrival time: 491
+	 By Galactica	Departure time: 589	Arrival time: 601
+	 By Galactica	Departure time: 699	Arrival time: 711
+	 By Galactica	Departure time: 809	Arrival time: 821
+	 By Galactica	Departure time: 919	Arrival time: 931
+	 By Galactica	Departure time: 1029	Arrival time: 1041
+
+To destination planet: Mon Calamari	Enroute time: 18
+There is no available to time offered
+
+-------Kessel-------
+To destination planet: Bakura	Enroute time: 27
+Available Times:
+	 By Heart of Gold	Departure time: 0	Arrival time: 27
+	 By Heart of Gold	Departure time: 62	Arrival time: 89
+	 By Heart of Gold	Departure time: 124	Arrival time: 151
+	 By Heart of Gold	Departure time: 186	Arrival time: 213
+	 By Heart of Gold	Departure time: 248	Arrival time: 275
+	 By Heart of Gold	Departure time: 310	Arrival time: 337
+	 By Heart of Gold	Departure time: 372	Arrival time: 399
+	 By Heart of Gold	Departure time: 434	Arrival time: 461
+	 By Heart of Gold	Departure time: 496	Arrival time: 523
+	 By Heart of Gold	Departure time: 558	Arrival time: 585
+
+To destination planet: Corellia	Enroute time: 10
+There is no available to time offered
+
+To destination planet: Corporate Sector	Enroute time: 9
+There is no available to time offered
+
+To destination planet: Coruscant	Enroute time: 27
+There is no available to time offered
+
+To destination planet: Hapes Cluster	Enroute time: 12
+Available Times:
+	 By Galactica	Departure time: 55	Arrival time: 67
+	 By Galactica	Departure time: 165	Arrival time: 177
+	 By Galactica	Departure time: 275	Arrival time: 287
+	 By Galactica	Departure time: 385	Arrival time: 397
+	 By Galactica	Departure time: 495	Arrival time: 507
+	 By Galactica	Departure time: 605	Arrival time: 617
+	 By Galactica	Departure time: 715	Arrival time: 727
+	 By Galactica	Departure time: 825	Arrival time: 837
+	 By Galactica	Departure time: 935	Arrival time: 947
+	 By Galactica	Departure time: 1045	Arrival time: 1057
+
+To destination planet: Mon Calamari	Enroute time: 9
+There is no available to time offered
+
+-------Mon Calamari-------
+To destination planet: Bakura	Enroute time: 22
+There is no available to time offered
+
+To destination planet: Corellia	Enroute time: 6
+There is no available to time offered
+
+To destination planet: Corporate Sector	Enroute time: 24
+Available Times:
+	 By Galactica	Departure time: 0	Arrival time: 24
+	 By Galactica	Departure time: 110	Arrival time: 134
+	 By Galactica	Departure time: 220	Arrival time: 244
+	 By Galactica	Departure time: 330	Arrival time: 354
+	 By Galactica	Departure time: 440	Arrival time: 464
+	 By Galactica	Departure time: 550	Arrival time: 574
+	 By Galactica	Departure time: 660	Arrival time: 684
+	 By Galactica	Departure time: 770	Arrival time: 794
+	 By Galactica	Departure time: 880	Arrival time: 904
+	 By Galactica	Departure time: 990	Arrival time: 1014
+
+To destination planet: Coruscant	Enroute time: 13
+Available Times:
+	 By NSEA Protector	Departure time: 25	Arrival time: 38
+	 By NSEA Protector	Departure time: 79	Arrival time: 92
+	 By NSEA Protector	Departure time: 129	Arrival time: 142
+	 By NSEA Protector	Departure time: 183	Arrival time: 196
+	 By NSEA Protector	Departure time: 233	Arrival time: 246
+	 By NSEA Protector	Departure time: 287	Arrival time: 300
+	 By NSEA Protector	Departure time: 337	Arrival time: 350
+	 By NSEA Protector	Departure time: 391	Arrival time: 404
+	 By NSEA Protector	Departure time: 441	Arrival time: 454
+	 By NSEA Protector	Departure time: 495	Arrival time: 508
+
+To destination planet: Hapes Cluster	Enroute time: 18
+There is no available to time offered
+
+To destination planet: Kessel	Enroute time: 9
+There is no available to time offered
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Alderaan
+	Departing at	22	Arriving at	29	To	Tatooine
+	Departing at	33	Arriving at	37	To	Corellia
+	Departing at	104	Arriving at	108	To	Coruscant
+	Departing at	112	Arriving at	125	To	Mon Calamari
+	Departing at	220	Arriving at	244	To	Corporate Sector
+	Departing at	248	Arriving at	255	To	Hapes Cluster
+	Departing at	259	Arriving at	271	To	Kessel
+	Departing at	310	Arriving at	337	To	Bakura
+
+Departing time: 22
+Arrival time: 337
+Enroute time: 315 (13 days and 3 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Bespin
+	Departing at	10	Arriving at	18	To	Alderaan
+	Departing at	22	Arriving at	29	To	Tatooine
+	Departing at	33	Arriving at	37	To	Corellia
+	Departing at	104	Arriving at	108	To	Coruscant
+	Departing at	112	Arriving at	125	To	Mon Calamari
+	Departing at	220	Arriving at	244	To	Corporate Sector
+	Departing at	248	Arriving at	255	To	Hapes Cluster
+	Departing at	259	Arriving at	271	To	Kessel
+	Departing at	310	Arriving at	337	To	Bakura
+
+Departing time: 10
+Arrival time: 337
+Enroute time: 327 (13 days and 15 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Corellia
+	Departing at	104	Arriving at	108	To	Coruscant
+	Departing at	112	Arriving at	125	To	Mon Calamari
+	Departing at	220	Arriving at	244	To	Corporate Sector
+	Departing at	248	Arriving at	255	To	Hapes Cluster
+	Departing at	259	Arriving at	271	To	Kessel
+	Departing at	310	Arriving at	337	To	Bakura
+
+Departing time: 104
+Arrival time: 337
+Enroute time: 233 (9 days and 17 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Coruscant
+	Departing at	96	Arriving at	100	To	Corellia
+	Departing at	155	Arriving at	167	To	Yaga Minor
+	Departing at	236	Arriving at	266	To	Wayland
+	Departing at	270	Arriving at	291	To	Myrkr
+
+Departing time: 96
+Arrival time: 291
+Enroute time: 195 (8 days and 3 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Dagobah
+	Departing at	124	Arriving at	156	To	Dantooine
+	Departing at	160	Arriving at	173	To	Alderaan
+	Departing at	206	Arriving at	214	To	Bespin
+	Departing at	218	Arriving at	224	To	Corellia
+	Departing at	312	Arriving at	316	To	Coruscant
+	Departing at	320	Arriving at	333	To	Mon Calamari
+	Departing at	440	Arriving at	464	To	Corporate Sector
+	Departing at	468	Arriving at	475	To	Hapes Cluster
+	Departing at	479	Arriving at	491	To	Kessel
+	Departing at	496	Arriving at	523	To	Bakura
+
+Departing time: 124
+Arrival time: 523
+Enroute time: 399 (16 days and 15 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Dantooine
+	Departing at	36	Arriving at	49	To	Alderaan
+	Departing at	92	Arriving at	100	To	Bespin
+	Departing at	104	Arriving at	110	To	Corellia
+	Departing at	208	Arriving at	212	To	Coruscant
+	Departing at	216	Arriving at	229	To	Mon Calamari
+	Departing at	330	Arriving at	354	To	Corporate Sector
+	Departing at	358	Arriving at	365	To	Hapes Cluster
+	Departing at	369	Arriving at	381	To	Kessel
+	Departing at	434	Arriving at	461	To	Bakura
+
+Departing time: 36
+Arrival time: 461
+Enroute time: 425 (17 days and 17 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Endor
+	Departing at	114	Arriving at	133	To	Sullust
+	Departing at	137	Arriving at	159	To	Hoth
+	Departing at	163	Arriving at	167	To	Bespin
+	Departing at	218	Arriving at	224	To	Corellia
+	Departing at	312	Arriving at	316	To	Coruscant
+	Departing at	320	Arriving at	333	To	Mon Calamari
+	Departing at	440	Arriving at	464	To	Corporate Sector
+	Departing at	468	Arriving at	475	To	Hapes Cluster
+	Departing at	479	Arriving at	491	To	Kessel
+	Departing at	496	Arriving at	523	To	Bakura
+
+Departing time: 114
+Arrival time: 523
+Enroute time: 409 (17 days and 1 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Gamorr
+	Departing at	88	Arriving at	128	To	Tatooine
+	Departing at	147	Arriving at	151	To	Corellia
+	Departing at	208	Arriving at	212	To	Coruscant
+	Departing at	216	Arriving at	229	To	Mon Calamari
+	Departing at	330	Arriving at	354	To	Corporate Sector
+	Departing at	358	Arriving at	365	To	Hapes Cluster
+	Departing at	369	Arriving at	381	To	Kessel
+	Departing at	434	Arriving at	461	To	Bakura
+
+Departing time: 88
+Arrival time: 461
+Enroute time: 373 (15 days and 13 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Hoth
+	Departing at	49	Arriving at	53	To	Bespin
+	Departing at	104	Arriving at	110	To	Corellia
+	Departing at	208	Arriving at	212	To	Coruscant
+	Departing at	216	Arriving at	229	To	Mon Calamari
+	Departing at	330	Arriving at	354	To	Corporate Sector
+	Departing at	358	Arriving at	365	To	Hapes Cluster
+	Departing at	369	Arriving at	381	To	Kessel
+	Departing at	434	Arriving at	461	To	Bakura
+
+Departing time: 49
+Arrival time: 461
+Enroute time: 412 (17 days and 4 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Sullust
+	Departing at	23	Arriving at	45	To	Hoth
+	Departing at	49	Arriving at	53	To	Bespin
+	Departing at	104	Arriving at	110	To	Corellia
+	Departing at	208	Arriving at	212	To	Coruscant
+	Departing at	216	Arriving at	229	To	Mon Calamari
+	Departing at	330	Arriving at	354	To	Corporate Sector
+	Departing at	358	Arriving at	365	To	Hapes Cluster
+	Departing at	369	Arriving at	381	To	Kessel
+	Departing at	434	Arriving at	461	To	Bakura
+
+Departing time: 23
+Arrival time: 461
+Enroute time: 438 (18 days and 6 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Tatooine
+	Departing at	33	Arriving at	37	To	Corellia
+	Departing at	104	Arriving at	108	To	Coruscant
+	Departing at	112	Arriving at	125	To	Mon Calamari
+	Departing at	220	Arriving at	244	To	Corporate Sector
+	Departing at	248	Arriving at	255	To	Hapes Cluster
+	Departing at	259	Arriving at	271	To	Kessel
+	Departing at	310	Arriving at	337	To	Bakura
+
+Departing time: 33
+Arrival time: 337
+Enroute time: 304 (12 days and 16 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Yavin
+	Departing at	62	Arriving at	67	To	Alderaan
+	Departing at	92	Arriving at	100	To	Bespin
+	Departing at	104	Arriving at	110	To	Corellia
+	Departing at	208	Arriving at	212	To	Coruscant
+	Departing at	216	Arriving at	229	To	Mon Calamari
+	Departing at	330	Arriving at	354	To	Corporate Sector
+	Departing at	358	Arriving at	365	To	Hapes Cluster
+	Departing at	369	Arriving at	381	To	Kessel
+	Departing at	434	Arriving at	461	To	Bakura
+
+Departing time: 62
+Arrival time: 461
+Enroute time: 399 (16 days and 15 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Brentaal
+	Departing at	6	Arriving at	11	To	Rhinnal
+	Departing at	15	Arriving at	16	To	Ralltiir
+	Departing at	20	Arriving at	24	To	Chandrila
+	Departing at	28	Arriving at	31	To	Esseles
+	Departing at	35	Arriving at	39	To	Corulag
+	Departing at	52	Arriving at	58	To	Coruscant
+	Departing at	96	Arriving at	100	To	Corellia
+	Departing at	155	Arriving at	167	To	Yaga Minor
+	Departing at	236	Arriving at	266	To	Wayland
+	Departing at	270	Arriving at	291	To	Myrkr
+
+Departing time: 6
+Arrival time: 291
+Enroute time: 285 (11 days and 21 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Chandrila
+	Departing at	28	Arriving at	31	To	Esseles
+	Departing at	35	Arriving at	39	To	Corulag
+	Departing at	52	Arriving at	58	To	Coruscant
+	Departing at	96	Arriving at	100	To	Corellia
+	Departing at	155	Arriving at	167	To	Yaga Minor
+	Departing at	236	Arriving at	266	To	Wayland
+	Departing at	270	Arriving at	291	To	Myrkr
+
+Departing time: 28
+Arrival time: 291
+Enroute time: 263 (10 days and 23 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Corulag
+	Departing at	52	Arriving at	58	To	Coruscant
+	Departing at	96	Arriving at	100	To	Corellia
+	Departing at	155	Arriving at	167	To	Yaga Minor
+	Departing at	236	Arriving at	266	To	Wayland
+	Departing at	270	Arriving at	291	To	Myrkr
+
+Departing time: 52
+Arrival time: 291
+Enroute time: 239 (9 days and 23 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Esseles
+	Departing at	35	Arriving at	39	To	Corulag
+	Departing at	52	Arriving at	58	To	Coruscant
+	Departing at	96	Arriving at	100	To	Corellia
+	Departing at	155	Arriving at	167	To	Yaga Minor
+	Departing at	236	Arriving at	266	To	Wayland
+	Departing at	270	Arriving at	291	To	Myrkr
+
+Departing time: 35
+Arrival time: 291
+Enroute time: 256 (10 days and 16 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Rhinnal
+	Departing at	15	Arriving at	16	To	Ralltiir
+	Departing at	20	Arriving at	24	To	Chandrila
+	Departing at	28	Arriving at	31	To	Esseles
+	Departing at	35	Arriving at	39	To	Corulag
+	Departing at	52	Arriving at	58	To	Coruscant
+	Departing at	96	Arriving at	100	To	Corellia
+	Departing at	155	Arriving at	167	To	Yaga Minor
+	Departing at	236	Arriving at	266	To	Wayland
+	Departing at	270	Arriving at	291	To	Myrkr
+
+Departing time: 15
+Arrival time: 291
+Enroute time: 276 (11 days and 12 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Ralltiir
+	Departing at	20	Arriving at	24	To	Chandrila
+	Departing at	28	Arriving at	31	To	Esseles
+	Departing at	35	Arriving at	39	To	Corulag
+	Departing at	52	Arriving at	58	To	Coruscant
+	Departing at	96	Arriving at	100	To	Corellia
+	Departing at	155	Arriving at	167	To	Yaga Minor
+	Departing at	236	Arriving at	266	To	Wayland
+	Departing at	270	Arriving at	291	To	Myrkr
+
+Departing time: 20
+Arrival time: 291
+Enroute time: 271 (11 days and 7 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Kashyyyk
+	Departing at	57	Arriving at	110	To	Yaga Minor
+	Departing at	171	Arriving at	183	To	Corellia
+	Departing at	208	Arriving at	212	To	Coruscant
+	Departing at	216	Arriving at	229	To	Mon Calamari
+	Departing at	330	Arriving at	354	To	Corporate Sector
+	Departing at	358	Arriving at	365	To	Hapes Cluster
+	Departing at	369	Arriving at	381	To	Kessel
+	Departing at	434	Arriving at	461	To	Bakura
+
+Departing time: 57
+Arrival time: 461
+Enroute time: 404 (16 days and 20 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Myrkr
+	Departing at	59	Arriving at	80	To	Wayland
+	Departing at	84	Arriving at	114	To	Yaga Minor
+	Departing at	171	Arriving at	183	To	Corellia
+	Departing at	208	Arriving at	212	To	Coruscant
+	Departing at	216	Arriving at	229	To	Mon Calamari
+	Departing at	330	Arriving at	354	To	Corporate Sector
+	Departing at	358	Arriving at	365	To	Hapes Cluster
+	Departing at	369	Arriving at	381	To	Kessel
+	Departing at	434	Arriving at	461	To	Bakura
+
+Departing time: 59
+Arrival time: 461
+Enroute time: 402 (16 days and 18 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Wayland
+	Departing at	84	Arriving at	114	To	Yaga Minor
+	Departing at	171	Arriving at	183	To	Corellia
+	Departing at	208	Arriving at	212	To	Coruscant
+	Departing at	216	Arriving at	229	To	Mon Calamari
+	Departing at	330	Arriving at	354	To	Corporate Sector
+	Departing at	358	Arriving at	365	To	Hapes Cluster
+	Departing at	369	Arriving at	381	To	Kessel
+	Departing at	434	Arriving at	461	To	Bakura
+
+Departing time: 84
+Arrival time: 461
+Enroute time: 377 (15 days and 17 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Bakura
+--------Printing Itinerary's route--------
+From Yaga Minor
+	Departing at	57	Arriving at	69	To	Corellia
+	Departing at	104	Arriving at	108	To	Coruscant
+	Departing at	112	Arriving at	125	To	Mon Calamari
+	Departing at	220	Arriving at	244	To	Corporate Sector
+	Departing at	248	Arriving at	255	To	Hapes Cluster
+	Departing at	259	Arriving at	271	To	Kessel
+	Departing at	310	Arriving at	337	To	Bakura
+
+Departing time: 57
+Arrival time: 337
+Enroute time: 280 (11 days and 16 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Bakura
+	Departing at	31	Arriving at	58	To	Kessel
+	Departing at	165	Arriving at	177	To	Hapes Cluster
+	Departing at	181	Arriving at	188	To	Corporate Sector
+	Departing at	192	Arriving at	216	To	Mon Calamari
+	Departing at	233	Arriving at	246	To	Coruscant
+	Departing at	304	Arriving at	308	To	Corellia
+	Departing at	383	Arriving at	395	To	Yaga Minor
+	Departing at	472	Arriving at	502	To	Wayland
+	Departing at	506	Arriving at	527	To	Myrkr
+
+Departing time: 31
+Arrival time: 527
+Enroute time: 496 (20 days and 16 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Corporate Sector
+	Departing at	82	Arriving at	106	To	Mon Calamari
+	Departing at	129	Arriving at	142	To	Coruscant
+	Departing at	200	Arriving at	204	To	Corellia
+	Departing at	269	Arriving at	281	To	Yaga Minor
+	Departing at	354	Arriving at	384	To	Wayland
+	Departing at	388	Arriving at	409	To	Myrkr
+
+Departing time: 82
+Arrival time: 409
+Enroute time: 327 (13 days and 15 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Hapes Cluster
+	Departing at	71	Arriving at	78	To	Corporate Sector
+	Departing at	82	Arriving at	106	To	Mon Calamari
+	Departing at	129	Arriving at	142	To	Coruscant
+	Departing at	200	Arriving at	204	To	Corellia
+	Departing at	269	Arriving at	281	To	Yaga Minor
+	Departing at	354	Arriving at	384	To	Wayland
+	Departing at	388	Arriving at	409	To	Myrkr
+
+Departing time: 71
+Arrival time: 409
+Enroute time: 338 (14 days and 2 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Kessel
+	Departing at	55	Arriving at	67	To	Hapes Cluster
+	Departing at	71	Arriving at	78	To	Corporate Sector
+	Departing at	82	Arriving at	106	To	Mon Calamari
+	Departing at	129	Arriving at	142	To	Coruscant
+	Departing at	200	Arriving at	204	To	Corellia
+	Departing at	269	Arriving at	281	To	Yaga Minor
+	Departing at	354	Arriving at	384	To	Wayland
+	Departing at	388	Arriving at	409	To	Myrkr
+
+Departing time: 55
+Arrival time: 409
+Enroute time: 354 (14 days and 18 hours)
+Time in Space: 0 (0 days and 0 hours)
+
+last   Myrkr
+--------Printing Itinerary's route--------
+From Mon Calamari
+	Departing at	25	Arriving at	38	To	Coruscant
+	Departing at	96	Arriving at	100	To	Corellia
+	Departing at	155	Arriving at	167	To	Yaga Minor
+	Departing at	236	Arriving at	266	To	Wayland
+	Departing at	270	Arriving at	291	To	Myrkr
+
+Departing time: 25
+Arrival time: 291
+Enroute time: 266 (11 days and 2 hours)
+Time in Space: 0 (0 days and 0 hours)
+

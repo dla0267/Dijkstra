@@ -1,0 +1,209 @@
+Red Dwarf	Alderaan	22	Tatooine	29
+Red Dwarf	Tatooine	33	Corellia	37
+Red Dwarf	Corellia	104	Coruscant	108
+NSEA Protector	Coruscant	112	Mon Calamari	125
+NSEA Protector	Mon Calamari	220	Corporate Sector	244
+Galactica	Corporate Sector	248	Hapes Cluster	255
+Galactica	Hapes Cluster	259	Kessel	271
+Galactica	Kessel	310	Bakura	337
+Red Dwarf	Bespin	10	Alderaan	18
+Red Dwarf	Alderaan	22	Tatooine	29
+Red Dwarf	Tatooine	33	Corellia	37
+Red Dwarf	Corellia	104	Coruscant	108
+NSEA Protector	Coruscant	112	Mon Calamari	125
+NSEA Protector	Mon Calamari	220	Corporate Sector	244
+Galactica	Corporate Sector	248	Hapes Cluster	255
+Galactica	Hapes Cluster	259	Kessel	271
+Galactica	Kessel	310	Bakura	337
+NSEA Protector	Corellia	104	Coruscant	108
+NSEA Protector	Coruscant	112	Mon Calamari	125
+NSEA Protector	Mon Calamari	220	Corporate Sector	244
+Galactica	Corporate Sector	248	Hapes Cluster	255
+Galactica	Hapes Cluster	259	Kessel	271
+Galactica	Kessel	310	Bakura	337
+NSEA Protector	Coruscant	96	Corellia	100
+NSEA Protector	Corellia	155	Yaga Minor	167
+Red Dwarf	Yaga Minor	236	Wayland	266
+Andromeda Ascendant	Wayland	270	Myrkr	291
+Millenium Falcon	Dagobah	124	Dantooine	156
+Millenium Falcon	Dantooine	160	Alderaan	173
+Millenium Falcon	Alderaan	206	Bespin	214
+Red Dwarf	Bespin	218	Corellia	224
+Red Dwarf	Corellia	312	Coruscant	316
+NSEA Protector	Coruscant	320	Mon Calamari	333
+NSEA Protector	Mon Calamari	440	Corporate Sector	464
+Galactica	Corporate Sector	468	Hapes Cluster	475
+Galactica	Hapes Cluster	479	Kessel	491
+Galactica	Kessel	496	Bakura	523
+Millenium Falcon	Dantooine	36	Alderaan	49
+Millenium Falcon	Alderaan	92	Bespin	100
+Red Dwarf	Bespin	104	Corellia	110
+Red Dwarf	Corellia	208	Coruscant	212
+NSEA Protector	Coruscant	216	Mon Calamari	229
+NSEA Protector	Mon Calamari	330	Corporate Sector	354
+Galactica	Corporate Sector	358	Hapes Cluster	365
+Galactica	Hapes Cluster	369	Kessel	381
+Galactica	Kessel	434	Bakura	461
+Serenity	Endor	114	Sullust	133
+Serenity	Sullust	137	Hoth	159
+Serenity	Hoth	163	Bespin	167
+Serenity	Bespin	218	Corellia	224
+Red Dwarf	Corellia	312	Coruscant	316
+NSEA Protector	Coruscant	320	Mon Calamari	333
+NSEA Protector	Mon Calamari	440	Corporate Sector	464
+Galactica	Corporate Sector	468	Hapes Cluster	475
+Galactica	Hapes Cluster	479	Kessel	491
+Galactica	Kessel	496	Bakura	523
+USS Enterprise	Gamorr	88	Tatooine	128
+USS Enterprise	Tatooine	147	Corellia	151
+Red Dwarf	Corellia	208	Coruscant	212
+NSEA Protector	Coruscant	216	Mon Calamari	229
+NSEA Protector	Mon Calamari	330	Corporate Sector	354
+Galactica	Corporate Sector	358	Hapes Cluster	365
+Galactica	Hapes Cluster	369	Kessel	381
+Galactica	Kessel	434	Bakura	461
+Serenity	Hoth	49	Bespin	53
+Serenity	Bespin	104	Corellia	110
+Red Dwarf	Corellia	208	Coruscant	212
+NSEA Protector	Coruscant	216	Mon Calamari	229
+NSEA Protector	Mon Calamari	330	Corporate Sector	354
+Galactica	Corporate Sector	358	Hapes Cluster	365
+Galactica	Hapes Cluster	369	Kessel	381
+Galactica	Kessel	434	Bakura	461
+Serenity	Sullust	23	Hoth	45
+Serenity	Hoth	49	Bespin	53
+Serenity	Bespin	104	Corellia	110
+Red Dwarf	Corellia	208	Coruscant	212
+NSEA Protector	Coruscant	216	Mon Calamari	229
+NSEA Protector	Mon Calamari	330	Corporate Sector	354
+Galactica	Corporate Sector	358	Hapes Cluster	365
+Galactica	Hapes Cluster	369	Kessel	381
+Galactica	Kessel	434	Bakura	461
+Red Dwarf	Tatooine	33	Corellia	37
+Red Dwarf	Corellia	104	Coruscant	108
+NSEA Protector	Coruscant	112	Mon Calamari	125
+NSEA Protector	Mon Calamari	220	Corporate Sector	244
+Galactica	Corporate Sector	248	Hapes Cluster	255
+Galactica	Hapes Cluster	259	Kessel	271
+Galactica	Kessel	310	Bakura	337
+Millenium Falcon	Yavin	62	Alderaan	67
+Millenium Falcon	Alderaan	92	Bespin	100
+Red Dwarf	Bespin	104	Corellia	110
+Red Dwarf	Corellia	208	Coruscant	212
+NSEA Protector	Coruscant	216	Mon Calamari	229
+NSEA Protector	Mon Calamari	330	Corporate Sector	354
+Galactica	Corporate Sector	358	Hapes Cluster	365
+Galactica	Hapes Cluster	369	Kessel	381
+Galactica	Kessel	434	Bakura	461
+Moya	Brentaal	6	Rhinnal	11
+Moya	Rhinnal	15	Ralltiir	16
+Moya	Ralltiir	20	Chandrila	24
+Moya	Chandrila	28	Esseles	31
+Moya	Esseles	35	Corulag	39
+Moya	Corulag	52	Coruscant	58
+NSEA Protector	Coruscant	96	Corellia	100
+NSEA Protector	Corellia	155	Yaga Minor	167
+Red Dwarf	Yaga Minor	236	Wayland	266
+Andromeda Ascendant	Wayland	270	Myrkr	291
+Moya	Chandrila	28	Esseles	31
+Moya	Esseles	35	Corulag	39
+Moya	Corulag	52	Coruscant	58
+NSEA Protector	Coruscant	96	Corellia	100
+NSEA Protector	Corellia	155	Yaga Minor	167
+Red Dwarf	Yaga Minor	236	Wayland	266
+Andromeda Ascendant	Wayland	270	Myrkr	291
+NSEA Protector	Corulag	52	Coruscant	58
+NSEA Protector	Coruscant	96	Corellia	100
+NSEA Protector	Corellia	155	Yaga Minor	167
+Red Dwarf	Yaga Minor	236	Wayland	266
+Andromeda Ascendant	Wayland	270	Myrkr	291
+Moya	Esseles	35	Corulag	39
+Moya	Corulag	52	Coruscant	58
+NSEA Protector	Coruscant	96	Corellia	100
+NSEA Protector	Corellia	155	Yaga Minor	167
+Red Dwarf	Yaga Minor	236	Wayland	266
+Andromeda Ascendant	Wayland	270	Myrkr	291
+Moya	Rhinnal	15	Ralltiir	16
+Moya	Ralltiir	20	Chandrila	24
+Moya	Chandrila	28	Esseles	31
+Moya	Esseles	35	Corulag	39
+Moya	Corulag	52	Coruscant	58
+NSEA Protector	Coruscant	96	Corellia	100
+NSEA Protector	Corellia	155	Yaga Minor	167
+Red Dwarf	Yaga Minor	236	Wayland	266
+Andromeda Ascendant	Wayland	270	Myrkr	291
+Moya	Ralltiir	20	Chandrila	24
+Moya	Chandrila	28	Esseles	31
+Moya	Esseles	35	Corulag	39
+Moya	Corulag	52	Coruscant	58
+NSEA Protector	Coruscant	96	Corellia	100
+NSEA Protector	Corellia	155	Yaga Minor	167
+Red Dwarf	Yaga Minor	236	Wayland	266
+Andromeda Ascendant	Wayland	270	Myrkr	291
+USSC Discovery One	Kashyyyk	57	Yaga Minor	110
+USSC Discovery One	Yaga Minor	171	Corellia	183
+Red Dwarf	Corellia	208	Coruscant	212
+NSEA Protector	Coruscant	216	Mon Calamari	229
+NSEA Protector	Mon Calamari	330	Corporate Sector	354
+Galactica	Corporate Sector	358	Hapes Cluster	365
+Galactica	Hapes Cluster	369	Kessel	381
+Galactica	Kessel	434	Bakura	461
+Andromeda Ascendant	Myrkr	59	Wayland	80
+Andromeda Ascendant	Wayland	84	Yaga Minor	114
+Andromeda Ascendant	Yaga Minor	171	Corellia	183
+Red Dwarf	Corellia	208	Coruscant	212
+NSEA Protector	Coruscant	216	Mon Calamari	229
+NSEA Protector	Mon Calamari	330	Corporate Sector	354
+Galactica	Corporate Sector	358	Hapes Cluster	365
+Galactica	Hapes Cluster	369	Kessel	381
+Galactica	Kessel	434	Bakura	461
+Andromeda Ascendant	Wayland	84	Yaga Minor	114
+Andromeda Ascendant	Yaga Minor	171	Corellia	183
+Red Dwarf	Corellia	208	Coruscant	212
+NSEA Protector	Coruscant	216	Mon Calamari	229
+NSEA Protector	Mon Calamari	330	Corporate Sector	354
+Galactica	Corporate Sector	358	Hapes Cluster	365
+Galactica	Hapes Cluster	369	Kessel	381
+Galactica	Kessel	434	Bakura	461
+Red Dwarf	Yaga Minor	57	Corellia	69
+Red Dwarf	Corellia	104	Coruscant	108
+NSEA Protector	Coruscant	112	Mon Calamari	125
+NSEA Protector	Mon Calamari	220	Corporate Sector	244
+Galactica	Corporate Sector	248	Hapes Cluster	255
+Galactica	Hapes Cluster	259	Kessel	271
+Galactica	Kessel	310	Bakura	337
+Heart of Gold	Bakura	31	Kessel	58
+Heart of Gold	Kessel	165	Hapes Cluster	177
+Galactica	Hapes Cluster	181	Corporate Sector	188
+Galactica	Corporate Sector	192	Mon Calamari	216
+Galactica	Mon Calamari	233	Coruscant	246
+NSEA Protector	Coruscant	304	Corellia	308
+NSEA Protector	Corellia	383	Yaga Minor	395
+Red Dwarf	Yaga Minor	472	Wayland	502
+Andromeda Ascendant	Wayland	506	Myrkr	527
+Galactica	Corporate Sector	82	Mon Calamari	106
+Galactica	Mon Calamari	129	Coruscant	142
+NSEA Protector	Coruscant	200	Corellia	204
+NSEA Protector	Corellia	269	Yaga Minor	281
+Red Dwarf	Yaga Minor	354	Wayland	384
+Andromeda Ascendant	Wayland	388	Myrkr	409
+Galactica	Hapes Cluster	71	Corporate Sector	78
+Galactica	Corporate Sector	82	Mon Calamari	106
+Galactica	Mon Calamari	129	Coruscant	142
+NSEA Protector	Coruscant	200	Corellia	204
+NSEA Protector	Corellia	269	Yaga Minor	281
+Red Dwarf	Yaga Minor	354	Wayland	384
+Andromeda Ascendant	Wayland	388	Myrkr	409
+Galactica	Kessel	55	Hapes Cluster	67
+Galactica	Hapes Cluster	71	Corporate Sector	78
+Galactica	Corporate Sector	82	Mon Calamari	106
+Galactica	Mon Calamari	129	Coruscant	142
+NSEA Protector	Coruscant	200	Corellia	204
+NSEA Protector	Corellia	269	Yaga Minor	281
+Red Dwarf	Yaga Minor	354	Wayland	384
+Andromeda Ascendant	Wayland	388	Myrkr	409
+NSEA Protector	Mon Calamari	25	Coruscant	38
+NSEA Protector	Coruscant	96	Corellia	100
+NSEA Protector	Corellia	155	Yaga Minor	167
+Red Dwarf	Yaga Minor	236	Wayland	266
+Andromeda Ascendant	Wayland	270	Myrkr	291
